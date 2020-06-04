@@ -148,3 +148,8 @@ C:\Users\C#Developer\source\repos\FreeSoft\FreeSoft\obj\Debug\netcoreapp3.1\Razo
 C:\Users\C#Developer\source\repos\FreeSoft\FreeSoft\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
 C:\Users\C#Developer\source\repos\FreeSoft\FreeSoft\obj\Debug\netcoreapp3.1\FreeSoft.csproj.CoreCompileInputs.cache
 C:\Users\C#Developer\source\repos\FreeSoft\FreeSoft\obj\Debug\netcoreapp3.1\FreeSoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\C#Developer\source\repos\FreeSoft\FreeSoft\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoginRegistration.cshtml.g.cs
+C:\Users\C#Developer\source\repos\FreeSoft\FreeSoft\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\C#Developer\source\repos\FreeSoft\FreeSoft\obj\Debug\netcoreapp3.1\Razor\Views\Account\RegisterView.cshtml.g.cs
+C:\Users\C#Developer\source\repos\FreeSoft\FreeSoft\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccountView.cshtml.g.cs
+C:\Users\C#Developer\source\repos\FreeSoft\FreeSoft\obj\Debug\netcoreapp3.1\Razor\Views\Home\SearchByName.cshtml.g.cs
