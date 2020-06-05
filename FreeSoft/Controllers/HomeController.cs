@@ -57,7 +57,7 @@ namespace FreeSoft.Controllers
                 return View(list.ToList());
             }
         }
-        public IActionResult SearchByName(string Search)
+        public IActionResult SearchByName(string Search)// Method to get Softs with similar Name
         {
             using (var context=new SqlConnection(DB.constring))
             {
